@@ -1,0 +1,12 @@
+db_index	motif_id	motif_alt_id	consensus	E-value	adj_p-value	log_adj_p-value	bin_location	bin_width	total_width	sites_in_bin	total_sites	p_success	p-value	mult_tests	neg_sites_in_bin	neg_sites	neg_adj_pvalue	log_neg_adj_pvalue	fisher_adj_pvalue	log_fisher_adj_pvalue
+   1	4-CCGMACTC	STREME-4	CCGMACTC	2.1e-1	   5.2e-3	          -5.26	         0.0	    395.0	        493	         317	        351	  0.80122	1.7e-7	     31242	         620	        751	1.0e0	           0.00	1.0e0	          -0.00	
+   1	6-CCGCCWAG	STREME-6	CCGCCWAG	2.8e-1	   7.1e-3	          -4.95	         0.0	    335.0	        493	         322	        405	  0.67951	1.8e-7	     38622	         675	        912	8.0e-1	          -0.22	1.0e0	           0.00	
+   1	13-GGGTCCAC	STREME-13	GGGTCCAC	4.8e-1	   1.2e-2	          -4.42	         0.0	    367.0	        493	         357	        428	  0.74442	4.9e-6	      2460	         916	       1170	9.6e-1	          -0.04	1.0e0	          -0.00	
+   1	4-HCACGCGCN	STREME-4	HCACGCGCN	2.5e0	   6.3e-2	          -2.76	         0.0	    124.0	        492	         126	        339	  0.25203	8.2e-7	     80115	         282	        926	1.0e0	          -0.00	1.0e0	           0.00	
+   1	3-VCCYSRGGB	STREME-3	VCCYSRGGB	3.9e0	   9.9e-2	          -2.32	         0.0	    234.0	        492	         199	        331	  0.47561	2.7e-6	     37975	         309	        584	1.0e0	           0.00	1.0e0	           0.00	
+   1	1-CCCGCTGM	STREME-1	CCCGCTGM	5.0e0	   1.2e-1	          -2.08	         0.0	    113.0	        493	         134	        407	  0.22921	2.8e-6	     46740	         222	        810	1.0e0	           0.00	1.0e0	           0.00	
+   1	9-VTACTCGG	STREME-9	VTACTCGG	7.5e0	   1.9e-1	          -1.67	         0.0	     79.0	        493	          72	        273	  0.16024	7.2e-6	     28782	          80	        449	1.0e0	           0.00	1.0e0	           0.00	
+
+# CentriMo (Local Motif Enrichment Analysis): Version 5.4.1 compiled on Nov 16 2021 at 10:47:07
+# The format of this file is described at https://meme-suite.org/meme/doc/centrimo-output-format.html.
+# centrimo --optimize-score --noseq --neg cls_no_avg_seqs5/Bkg5.fa --oc cen2/C3 cls_no_avg_seqs5/C3.fa ./motifs1.meme

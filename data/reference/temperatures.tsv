@@ -1,0 +1,11 @@
+Condition	Week	TempSampling	TempMax	TempMin	TempAvg
+Fluctuating	0	22	22	22	22
+Fluctuating	1	14.5	16.1	7.7	10.74375
+Fluctuating	2	10.7	11.2	5.1	7.725
+Fluctuating	3	8.1	9	1.7	4.252
+Fluctuating	4	5.1	8.1	-0.7	2.0479
+Average	0	22	22	22	22
+Average	1	10.8	10.9	10.2	10.7
+Average	2	7.5	8.5	6.8	7.858
+Average	3	3.8	5.5	3.3	4.3729
+Average	4	0.8	4.4	-0.3	2.1

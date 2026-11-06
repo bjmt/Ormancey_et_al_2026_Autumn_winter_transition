@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using these analysis scripts."
+type: software
+title: "Autumn-winter progression in Arabidopsis: genomic analysis scripts"
+authors:
+  - family-names: Tremblay
+    given-names: Benjamin J. M.
+preferred-citation:
+  type: article
+  title: "Autumn–winter progression triggers distinct transcriptional programs in Arabidopsis thaliana"
+  journal: Genome Biology
+  year: 2026
+  doi: 10.1186/s13059-026-04289-3
+  authors:
+    - family-names: Ormancey
+      given-names: Mélanie
+    - family-names: Tremblay
+      given-names: Benjamin J. M.
+    - family-names: Cheng
+      given-names: Yajiao
+    - family-names: Praat
+      given-names: Myrthe
+    - family-names: Antoniou-Kourounioti
+      given-names: Rea L.
+    - family-names: Krumbach
+      given-names: Jenna
+    - family-names: van Zanten
+      given-names: Martijn
+    - family-names: Qüesta
+      given-names: Julia I.
